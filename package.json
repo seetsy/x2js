@@ -1,0 +1,22 @@
+{
+  "name": "x2js-cjs2",
+  "version": "0.1.0",
+  "description": "x2js modified for commonjs2 format",
+  "main": "xml2json-cjs2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seetsy/x2js.git"
+  },
+  "keywords": [
+    "x2js"
+  ],
+  "author": "Jeff Seets",
+  "license": "Apache Licence v2",
+  "bugs": {
+    "url": "https://github.com/seetsy/x2js/issues"
+  },
+  "homepage": "https://github.com/seetsy/x2js"
+}
