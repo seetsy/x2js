@@ -1,6 +1,6 @@
 {
   "name": "x2js-cjs2",
-  "version": "0.1.0",
+  "version": "1.1.7",
   "description": "x2js modified for commonjs2 format",
   "main": "xml2json-cjs2.js",
   "scripts": {
